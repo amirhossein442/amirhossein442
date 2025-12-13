@@ -17,5 +17,7 @@ I am a Frontend Developer eager to expand my skills in this field.
 
 ![Advanced JavaScript](https://img.shields.io/badge/-Advanced_JS-F7DF1E?logo=javascript&logoColor=black&style=flat)
 ![Advanced React](https://img.shields.io/badge/-Advanced_React-61DAFB?logo=react&logoColor=black&style=flat)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=flat)
+
 
 
